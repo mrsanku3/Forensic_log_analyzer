@@ -27,5 +27,5 @@ This Forensic Link Analyzer is a high-speed data engineering triage tool built t
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/mrsanku3/Forensic_log_analyzer.git]
+git clone https://github.com/mrsanku3/Forensic_log_analyzer.git
 cd ipdr-link-analyzer
